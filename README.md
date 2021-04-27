@@ -1,2 +1,2 @@
 # paginapessoal
-Um breve detalhamento em versão web.
+Um breve detalhamento sobre mim em versão web.
